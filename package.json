@@ -1,0 +1,12 @@
+{
+    "name": "@goengine/electrobun",
+    "version": "0.1.0",
+    "description": "Hello GoEngine.electrobun",
+    "license": "MIT",
+    "author": "Mr.Rui",
+    "type": "module",
+    "dependencies": {
+        "electrobun": "^1.16.0"
+    },
+    "devDependencies": {}
+}
